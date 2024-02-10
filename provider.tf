@@ -7,7 +7,7 @@ terraform {
     }
   }
   cloud {
-    organization = "DevOps-Java-Bootcamp"
+    organization = "Poom-DevOps-Java-Bootcamp"
 
     workspaces {
       name = "devops-infra"
